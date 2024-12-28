@@ -3,7 +3,7 @@
     "description": "abc CI/CD workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Org Workflow Templates"
+        "Automation"
     ],
     "filePatterns": [
         "package.json$",
