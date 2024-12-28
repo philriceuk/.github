@@ -1,1 +1,13 @@
-wf-template-1.json
+{
+    "name": "wftemplate1 Workflow",
+    "description": "abc CI/CD workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Org Workflow Templates"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
